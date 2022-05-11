@@ -2,14 +2,7 @@
 //Default Configuration
 $CONFIG = '{"lang":"en","error_reporting":true,"show_hidden":true,"hide_Cols":true,"calc_folder":true,"theme":"light"}';
 
-//melanjutkan pengembangan dari
-/**
- * H3K | File Manager V2.4.7
- * CCP Programmers | ccpprogrammers@gmail.com
- * https://tinyfilemanager.github.io
- */
-
-//pengembang selanjutnya kevbengkelprint@gmail.com
+// kevbengkelprint@gmail.com
 
 
 //TFM version
